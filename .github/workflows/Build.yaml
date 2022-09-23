@@ -9,7 +9,6 @@ env:
 
 jobs:
 
-
   Analyse-Code: # Premier job "Analyse de code static"
     runs-on: ubuntu-latest
     permissions: # https://docs.github.com/en/actions/using-jobs/assigning-permissions-to-jobs
